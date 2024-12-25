@@ -20,8 +20,8 @@ specified directory. The script is designed to work with a cron job for periodic
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone git@github.com:tarikwaleed/postgres_docker_container_backup.git
+   cd postgres_docker_container_backup
    ```
 
 2. **Install Python**:
