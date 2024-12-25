@@ -3,7 +3,7 @@ from datetime import datetime
 import argparse
 
 # Hardcoded path to pg_dump
-PG_DUMP_PATH = "/usr/bin/pg_dump"
+PG_DUMP_PATH = "/usr/local/bin/pg_dump"
 
 
 def backup_database(container_name, db_user, db_name, backup_dir):
